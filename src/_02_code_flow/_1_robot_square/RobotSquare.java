@@ -45,12 +45,12 @@ public class RobotSquare {
     	//        so it is between the curly braces like the example below. 
     	//        The code in the loop will now repeat 4 times to draw a square.
     	
-    	/**     while ( count < 4 ) { 
-    	 *            DRAW
-    	 *            TURN
-    	 *            INCREASE COUNT
-    	 *      }
-    	 **/
+    	     while ( count < 4 ) { 
+    	             rob.move();
+    	             rob.turn();
+    	             count();
+    	       }
+    	 
     	
     	
     	// Run the program again. Did your Robot draw a square?

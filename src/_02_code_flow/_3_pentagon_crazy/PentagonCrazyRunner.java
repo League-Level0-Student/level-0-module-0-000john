@@ -7,7 +7,7 @@ package _02_code_flow._3_pentagon_crazy;
 import org.jointheleague.graphical.robot.Robot;
 import java.awt.Color;
 
-public class PentagonCrazy {
+public class PentagonCrazyRunner {
 	
 	public static void main(String[] args) {
 		
